@@ -1,6 +1,6 @@
 # sqlite3
 
-### Initialize and run
+Initialize and run
 
 ```bash
 npm install
@@ -25,6 +25,6 @@ Database closed.
   - Inserts two users
   - Selects and logs them
 
-- File `test.db` can be opened using tools like [DB Browser for SQLite](https://sqlitebrowser.org/).
+- File `test.db` can be opened using tools like [DB Browser for SQLite](https://sqlitebrowser.org/) or [DBeaver](https://dbeaver.io)
 
 ---
