@@ -1,4 +1,4 @@
-// app.js
+// index.js
 const sqlite3 = require("sqlite3").verbose();
 
 // Create or open a database file named "test.db"
